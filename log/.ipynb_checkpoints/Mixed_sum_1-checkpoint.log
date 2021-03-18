@@ -1,0 +1,62 @@
+/output/_net/Mixed_sum.py:634: UserWarning: nn.init.kaiming_normal is now deprecated in favor of nn.init.kaiming_normal_.
+  nn.init.kaiming_normal(module.weight.data, 0.25)
+/output/_net/Mixed_sum.py:635: UserWarning: nn.init.constant is now deprecated in favor of nn.init.constant_.
+  nn.init.constant(module.bias.data, 0)
+/usr/local/lib/python3.6/dist-packages/torch/optim/lr_scheduler.py:100: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule.See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+epoch:0, step:0, loss:1.885, time:0.123 min
+epoch:0, step:5, loss:1.770, time:0.665 min
+epoch:0, step:10, loss:1.715, time:1.188 min
+epoch:0, step:15, loss:1.671, time:1.716 min
+epoch:0, step:20, loss:1.577, time:2.228 min
+epoch:0, step:25, loss:1.604, time:2.753 min
+epoch:0, step:30, loss:1.498, time:3.276 min
+epoch:0, step:35, loss:1.428, time:3.804 min
+mean_loss =  1.6176325261592865
+2019.12.03 09:35:22
+************************
+
+epoch:1, step:0, loss:1.426, time:4.353 min
+epoch:1, step:5, loss:1.407, time:4.879 min
+epoch:1, step:10, loss:1.400, time:5.410 min
+epoch:1, step:15, loss:1.535, time:5.931 min
+epoch:1, step:20, loss:1.410, time:6.455 min
+epoch:1, step:25, loss:1.385, time:6.988 min
+epoch:1, step:30, loss:1.551, time:7.500 min
+epoch:1, step:35, loss:1.348, time:8.036 min
+mean_loss =  1.4252929627895354
+************************
+
+epoch:2, step:0, loss:1.363, time:8.584 min
+epoch:2, step:5, loss:1.379, time:9.112 min
+epoch:2, step:10, loss:1.376, time:9.646 min
+epoch:2, step:15, loss:1.319, time:10.186 min
+epoch:2, step:20, loss:1.398, time:10.719 min
+epoch:2, step:25, loss:1.334, time:11.234 min
+epoch:2, step:30, loss:1.455, time:11.771 min
+epoch:2, step:35, loss:1.397, time:12.302 min
+mean_loss =  1.392050251364708
+************************
+
+epoch:3, step:0, loss:1.310, time:12.842 min
+epoch:3, step:5, loss:1.290, time:13.360 min
+epoch:3, step:10, loss:1.242, time:13.895 min
+epoch:3, step:15, loss:1.198, time:14.426 min
+epoch:3, step:20, loss:1.124, time:14.948 min
+epoch:3, step:25, loss:1.181, time:15.488 min
+epoch:3, step:30, loss:1.163, time:16.019 min
+epoch:3, step:35, loss:1.230, time:16.543 min
+mean_loss =  1.2872238218784333
+************************
+
+epoch:4, step:0, loss:1.245, time:17.081 min
+epoch:4, step:5, loss:1.186, time:17.612 min
+epoch:4, step:10, loss:1.246, time:18.137 min
+epoch:4, step:15, loss:1.156, time:18.670 min
+epoch:4, step:20, loss:1.273, time:19.202 min
+epoch:4, step:25, loss:1.091, time:19.731 min
+epoch:4, step:30, loss:1.041, time:20.248 min
+epoch:4, step:35, loss:1.155, time:20.783 min
+mean_loss =  1.2004748612642289
+************************
+

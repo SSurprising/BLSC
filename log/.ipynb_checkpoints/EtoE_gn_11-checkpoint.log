@@ -1,0 +1,21 @@
+**********Loading all CT iamges**********
+**********Loading end**********
+/output/_net/EtoE_gn.py:457: UserWarning: nn.init.kaiming_normal is now deprecated in favor of nn.init.kaiming_normal_.
+  nn.init.kaiming_normal(module.weight.data, 0.25)
+/output/_net/EtoE_gn.py:458: UserWarning: nn.init.constant is now deprecated in favor of nn.init.constant_.
+  nn.init.constant(module.bias.data, 0)
+/usr/local/lib/python3.6/dist-packages/torch/optim/lr_scheduler.py:100: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule.See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+epoch:0, step:0, loss:1.885, time:0.322 min
+epoch:0, step:5, loss:1.770, time:0.407 min
+epoch:0, step:10, loss:1.658, time:0.492 min
+epoch:0, step:15, loss:1.611, time:0.578 min
+epoch:0, step:20, loss:1.570, time:0.663 min
+epoch:0, step:25, loss:1.525, time:0.749 min
+epoch:0, step:30, loss:1.558, time:0.835 min
+epoch:0, step:35, loss:1.499, time:0.921 min
+mean_loss =  1.6220277190208434
+Traceback (most recent call last):
+  File "train.py", line 127, in <module>
+    
+NameError: name 'mean' is not defined

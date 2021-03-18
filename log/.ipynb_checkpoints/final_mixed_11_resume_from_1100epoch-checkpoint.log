@@ -1,0 +1,133 @@
+<generator object Module.parameters at 0x7fcb8f107fc0>
+**********Loading all CT images**********
+**********Loading end**********
+/output/_net/Mixed_sum_s_gn_seperate_only_encoder.py:686: UserWarning: nn.init.kaiming_normal is now deprecated in favor of nn.init.kaiming_normal_.
+  nn.init.kaiming_normal(module.weight.data, 0.25)
+/output/_net/Mixed_sum_s_gn_seperate_only_encoder.py:687: UserWarning: nn.init.constant is now deprecated in favor of nn.init.constant_.
+  nn.init.constant(module.bias.data, 0)
+/usr/local/lib/python3.6/dist-packages/torch/optim/lr_scheduler.py:100: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule.See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  "https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate", UserWarning)
+epoch:0, step:0, loss:0.044, time:0.408 min
+epoch:0, step:5, loss:0.433, time:0.769 min
+epoch:0, step:10, loss:0.430, time:1.133 min
+epoch:0, step:15, loss:0.441, time:1.498 min
+epoch:0, step:20, loss:0.438, time:1.884 min
+epoch:0, step:25, loss:0.436, time:2.209 min
+epoch:0, step:30, loss:0.036, time:2.615 min
+epoch:0, step:35, loss:0.432, time:3.022 min
+mean_loss =  0.2863055256759228
+2019.12.31 06:44:51
+************************
+
+epoch: 0 min loss =  0.2863055256759228
+epoch:1, step:0, loss:0.039, time:3.407 min
+epoch:1, step:5, loss:0.036, time:3.793 min
+epoch:1, step:10, loss:0.436, time:4.179 min
+epoch:1, step:15, loss:0.431, time:4.545 min
+epoch:1, step:20, loss:0.433, time:4.910 min
+epoch:1, step:25, loss:0.428, time:5.257 min
+epoch:1, step:30, loss:0.429, time:5.603 min
+epoch:1, step:35, loss:0.442, time:5.969 min
+mean_loss =  0.2765040347626159
+************************
+
+epoch:2, step:0, loss:0.436, time:6.332 min
+epoch:2, step:5, loss:0.424, time:6.699 min
+epoch:2, step:10, loss:0.439, time:7.045 min
+epoch:2, step:15, loss:0.438, time:7.371 min
+epoch:2, step:20, loss:0.430, time:7.778 min
+epoch:2, step:25, loss:0.044, time:8.123 min
+epoch:2, step:30, loss:0.437, time:8.449 min
+epoch:2, step:35, loss:0.441, time:8.795 min
+mean_loss =  0.28129519990512303
+************************
+
+epoch:3, step:0, loss:0.440, time:9.192 min
+epoch:3, step:5, loss:0.435, time:9.559 min
+epoch:3, step:10, loss:0.430, time:9.966 min
+epoch:3, step:15, loss:0.434, time:10.292 min
+epoch:3, step:20, loss:0.437, time:10.658 min
+epoch:3, step:25, loss:0.443, time:11.025 min
+epoch:3, step:30, loss:0.443, time:11.411 min
+epoch:3, step:35, loss:0.041, time:11.777 min
+mean_loss =  0.2784719976885565
+************************
+
+epoch:4, step:0, loss:0.436, time:12.174 min
+epoch:4, step:5, loss:0.034, time:12.520 min
+epoch:4, step:10, loss:0.051, time:12.866 min
+epoch:4, step:15, loss:0.430, time:13.232 min
+epoch:4, step:20, loss:0.428, time:13.578 min
+epoch:4, step:25, loss:0.436, time:13.964 min
+epoch:4, step:30, loss:0.435, time:14.331 min
+epoch:4, step:35, loss:0.035, time:14.636 min
+mean_loss =  0.26321365850434886
+************************
+
+epoch:5, step:0, loss:0.435, time:14.998 min
+epoch:5, step:5, loss:0.443, time:15.365 min
+epoch:5, step:10, loss:0.033, time:15.731 min
+epoch:5, step:15, loss:0.438, time:16.118 min
+epoch:5, step:20, loss:0.432, time:16.485 min
+epoch:5, step:25, loss:0.447, time:16.851 min
+epoch:5, step:30, loss:0.433, time:17.197 min
+epoch:5, step:35, loss:0.439, time:17.564 min
+mean_loss =  0.2884705720676316
+************************
+
+epoch:6, step:0, loss:0.441, time:17.939 min
+epoch:6, step:5, loss:0.037, time:18.265 min
+epoch:6, step:10, loss:0.437, time:18.651 min
+epoch:6, step:15, loss:0.432, time:19.037 min
+epoch:6, step:20, loss:0.433, time:19.384 min
+epoch:6, step:25, loss:0.039, time:19.751 min
+epoch:6, step:30, loss:0.043, time:20.138 min
+epoch:6, step:35, loss:0.438, time:20.464 min
+mean_loss =  0.27812405119479544
+************************
+
+epoch:7, step:0, loss:0.430, time:20.860 min
+epoch:7, step:5, loss:0.429, time:21.247 min
+epoch:7, step:10, loss:0.443, time:21.613 min
+epoch:7, step:15, loss:0.427, time:21.979 min
+epoch:7, step:20, loss:0.441, time:22.306 min
+epoch:7, step:25, loss:0.436, time:22.672 min
+epoch:7, step:30, loss:0.437, time:23.039 min
+epoch:7, step:35, loss:0.436, time:23.344 min
+mean_loss =  0.27863947323390414
+************************
+
+epoch:8, step:0, loss:0.430, time:23.700 min
+epoch:8, step:5, loss:0.429, time:24.108 min
+epoch:8, step:10, loss:0.045, time:24.473 min
+epoch:8, step:15, loss:0.430, time:24.840 min
+epoch:8, step:20, loss:0.048, time:25.186 min
+epoch:8, step:25, loss:0.439, time:25.572 min
+epoch:8, step:30, loss:0.050, time:25.918 min
+epoch:8, step:35, loss:0.430, time:26.304 min
+mean_loss =  0.27870542016522637
+************************
+
+epoch:9, step:0, loss:0.438, time:26.659 min
+epoch:9, step:5, loss:0.441, time:27.026 min
+epoch:9, step:10, loss:0.430, time:27.412 min
+epoch:9, step:15, loss:0.432, time:27.778 min
+epoch:9, step:20, loss:0.048, time:28.144 min
+epoch:9, step:25, loss:0.046, time:28.490 min
+epoch:9, step:30, loss:0.435, time:28.816 min
+epoch:9, step:35, loss:0.430, time:29.182 min
+mean_loss =  0.2724690403736813
+************************
+
+epoch:10, step:0, loss:0.427, time:29.578 min
+epoch:10, step:5, loss:0.438, time:29.903 min
+epoch:10, step:10, loss:0.426, time:30.270 min
+epoch:10, step:15, loss:0.436, time:30.656 min
+epoch:10, step:20, loss:0.436, time:31.023 min
+epoch:10, step:25, loss:0.437, time:31.369 min
+epoch:10, step:30, loss:0.428, time:31.735 min
+epoch:10, step:35, loss:0.042, time:32.081 min
+mean_loss =  0.29088592529296875
+2019.12.31 07:13:54
+************************
+
