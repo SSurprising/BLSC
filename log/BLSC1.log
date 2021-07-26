@@ -5254,3 +5254,1201 @@ mean_loss =  0.907011661373201
 min_loss =  0.8604354028701782
 ************************
 
+epoch:434, step:0, loss:0.345, time:2230.469 min
+epoch:434, step:5, loss:0.341, time:2231.118 min
+epoch:434, step:10, loss:0.342, time:2231.809 min
+epoch:434, step:15, loss:0.369, time:2232.461 min
+epoch:434, step:20, loss:0.329, time:2233.151 min
+epoch:434, step:25, loss:0.346, time:2233.839 min
+epoch:434, step:30, loss:0.348, time:2234.483 min
+epoch:434, step:35, loss:0.348, time:2235.134 min
+mean_loss =  0.8805713857092509
+min_loss =  0.8604354028701782
+************************
+
+epoch:435, step:0, loss:0.354, time:2235.819 min
+epoch:435, step:5, loss:0.367, time:2236.517 min
+epoch:435, step:10, loss:0.379, time:2237.136 min
+epoch:435, step:15, loss:0.346, time:2237.833 min
+epoch:435, step:20, loss:0.359, time:2238.528 min
+epoch:435, step:25, loss:0.337, time:2239.264 min
+epoch:435, step:30, loss:0.349, time:2239.962 min
+epoch:435, step:35, loss:0.353, time:2240.672 min
+mean_loss =  0.9240667801054697
+min_loss =  0.8604354028701782
+************************
+
+epoch:436, step:0, loss:0.362, time:2241.364 min
+epoch:436, step:5, loss:0.336, time:2242.041 min
+epoch:436, step:10, loss:0.341, time:2242.634 min
+epoch:436, step:15, loss:0.365, time:2243.263 min
+epoch:436, step:20, loss:0.355, time:2243.932 min
+epoch:436, step:25, loss:0.341, time:2244.561 min
+epoch:436, step:30, loss:0.366, time:2245.231 min
+epoch:436, step:35, loss:0.349, time:2245.860 min
+mean_loss =  0.8939856931197742
+min_loss =  0.8604354028701782
+************************
+
+epoch:437, step:0, loss:0.336, time:2246.462 min
+epoch:437, step:5, loss:0.360, time:2247.090 min
+epoch:437, step:10, loss:0.359, time:2247.760 min
+epoch:437, step:15, loss:0.396, time:2248.430 min
+epoch:437, step:20, loss:0.342, time:2249.058 min
+epoch:437, step:25, loss:0.356, time:2249.728 min
+epoch:437, step:30, loss:0.359, time:2250.399 min
+epoch:437, step:35, loss:0.362, time:2251.027 min
+mean_loss =  0.8976237081712292
+min_loss =  0.8604354028701782
+************************
+
+epoch:438, step:0, loss:0.358, time:2251.629 min
+epoch:438, step:5, loss:0.342, time:2252.257 min
+epoch:438, step:10, loss:0.359, time:2252.928 min
+epoch:438, step:15, loss:0.354, time:2253.599 min
+epoch:438, step:20, loss:0.349, time:2254.227 min
+epoch:438, step:25, loss:0.356, time:2254.814 min
+epoch:438, step:30, loss:0.338, time:2255.484 min
+epoch:438, step:35, loss:0.339, time:2256.028 min
+mean_loss =  0.922584902338621
+min_loss =  0.8604354028701782
+************************
+
+epoch:439, step:0, loss:0.370, time:2256.672 min
+epoch:439, step:5, loss:0.341, time:2257.300 min
+epoch:439, step:10, loss:0.333, time:2257.928 min
+epoch:439, step:15, loss:0.355, time:2258.598 min
+epoch:439, step:20, loss:0.348, time:2259.184 min
+epoch:439, step:25, loss:0.340, time:2259.771 min
+epoch:439, step:30, loss:0.357, time:2260.482 min
+epoch:439, step:35, loss:0.345, time:2261.152 min
+mean_loss =  0.8657764284337153
+min_loss =  0.8604354028701782
+************************
+
+epoch:440, step:0, loss:0.353, time:2261.797 min
+epoch:440, step:5, loss:0.353, time:2262.426 min
+epoch:440, step:10, loss:0.350, time:2263.095 min
+epoch:440, step:15, loss:0.362, time:2263.724 min
+epoch:440, step:20, loss:0.358, time:2264.458 min
+epoch:440, step:25, loss:0.335, time:2265.174 min
+epoch:440, step:30, loss:0.349, time:2265.847 min
+epoch:440, step:35, loss:0.356, time:2266.438 min
+mean_loss =  0.8893625376716493
+min_loss =  0.8604354028701782
+2021.07.26 11:02:53
+************************
+
+epoch:441, step:0, loss:0.338, time:2267.138 min
+epoch:441, step:5, loss:0.348, time:2267.764 min
+epoch:441, step:10, loss:0.367, time:2268.350 min
+epoch:441, step:15, loss:0.344, time:2268.977 min
+epoch:441, step:20, loss:0.354, time:2269.645 min
+epoch:441, step:25, loss:0.342, time:2270.317 min
+epoch:441, step:30, loss:0.344, time:2270.986 min
+epoch:441, step:35, loss:0.361, time:2271.529 min
+mean_loss =  0.877007273832957
+min_loss =  0.8604354028701782
+************************
+
+epoch:442, step:0, loss:0.360, time:2272.214 min
+epoch:442, step:5, loss:0.367, time:2272.840 min
+epoch:442, step:10, loss:0.334, time:2273.550 min
+epoch:442, step:15, loss:0.365, time:2274.177 min
+epoch:442, step:20, loss:0.342, time:2274.804 min
+epoch:442, step:25, loss:0.361, time:2275.431 min
+epoch:442, step:30, loss:0.347, time:2276.057 min
+epoch:442, step:35, loss:0.331, time:2276.642 min
+mean_loss =  0.8995007696698923
+min_loss =  0.8604354028701782
+************************
+
+epoch:443, step:0, loss:0.338, time:2277.327 min
+epoch:443, step:5, loss:0.369, time:2277.953 min
+epoch:443, step:10, loss:0.364, time:2278.539 min
+epoch:443, step:15, loss:0.346, time:2279.207 min
+epoch:443, step:20, loss:0.350, time:2279.834 min
+epoch:443, step:25, loss:0.333, time:2280.503 min
+epoch:443, step:30, loss:0.355, time:2281.171 min
+epoch:443, step:35, loss:0.354, time:2281.798 min
+mean_loss =  0.8856219024427475
+min_loss =  0.8604354028701782
+************************
+
+epoch:444, step:0, loss:0.353, time:2282.482 min
+epoch:444, step:5, loss:0.344, time:2283.109 min
+epoch:444, step:10, loss:0.354, time:2283.862 min
+epoch:444, step:15, loss:0.363, time:2284.447 min
+epoch:444, step:20, loss:0.345, time:2285.117 min
+epoch:444, step:25, loss:0.339, time:2285.744 min
+epoch:444, step:30, loss:0.370, time:2286.371 min
+epoch:444, step:35, loss:0.344, time:2286.998 min
+mean_loss =  0.8861207237243652
+min_loss =  0.8604354028701782
+************************
+
+epoch:445, step:0, loss:0.338, time:2287.725 min
+epoch:445, step:5, loss:0.344, time:2288.310 min
+epoch:445, step:10, loss:0.346, time:2288.937 min
+epoch:445, step:15, loss:0.352, time:2289.647 min
+epoch:445, step:20, loss:0.348, time:2290.232 min
+epoch:445, step:25, loss:0.346, time:2290.859 min
+epoch:445, step:30, loss:0.338, time:2291.528 min
+epoch:445, step:35, loss:0.341, time:2292.155 min
+mean_loss =  0.9326840570150328
+min_loss =  0.8604354028701782
+************************
+
+epoch:446, step:0, loss:0.366, time:2292.798 min
+epoch:446, step:5, loss:0.340, time:2293.424 min
+epoch:446, step:10, loss:0.356, time:2294.094 min
+epoch:446, step:15, loss:0.333, time:2294.763 min
+epoch:446, step:20, loss:0.365, time:2295.390 min
+epoch:446, step:25, loss:0.344, time:2295.975 min
+epoch:446, step:30, loss:0.337, time:2296.643 min
+epoch:446, step:35, loss:0.343, time:2297.270 min
+mean_loss =  0.9212721351717339
+min_loss =  0.8604354028701782
+************************
+
+epoch:447, step:0, loss:0.352, time:2297.912 min
+epoch:447, step:5, loss:0.348, time:2298.539 min
+epoch:447, step:10, loss:0.344, time:2299.166 min
+epoch:447, step:15, loss:0.346, time:2299.793 min
+epoch:447, step:20, loss:0.362, time:2300.420 min
+epoch:447, step:25, loss:0.343, time:2301.047 min
+epoch:447, step:30, loss:0.342, time:2301.674 min
+epoch:447, step:35, loss:0.349, time:2302.385 min
+mean_loss =  0.8774187994784997
+min_loss =  0.8604354028701782
+************************
+
+epoch:448, step:0, loss:0.338, time:2303.029 min
+epoch:448, step:5, loss:0.340, time:2303.697 min
+epoch:448, step:10, loss:0.366, time:2304.325 min
+epoch:448, step:15, loss:0.339, time:2304.910 min
+epoch:448, step:20, loss:0.346, time:2305.578 min
+epoch:448, step:25, loss:0.352, time:2306.247 min
+epoch:448, step:30, loss:0.337, time:2306.874 min
+epoch:448, step:35, loss:0.333, time:2307.501 min
+mean_loss =  0.9098563982435495
+min_loss =  0.8604354028701782
+************************
+
+epoch:449, step:0, loss:0.352, time:2308.061 min
+epoch:449, step:5, loss:0.344, time:2308.730 min
+epoch:449, step:10, loss:0.341, time:2309.357 min
+epoch:449, step:15, loss:0.348, time:2310.067 min
+epoch:449, step:20, loss:0.348, time:2310.736 min
+epoch:449, step:25, loss:0.345, time:2311.404 min
+epoch:449, step:30, loss:0.361, time:2312.073 min
+epoch:449, step:35, loss:0.340, time:2312.700 min
+mean_loss =  0.9042100492985018
+min_loss =  0.8604354028701782
+************************
+
+epoch:450, step:0, loss:0.337, time:2313.301 min
+epoch:450, step:5, loss:0.354, time:2313.927 min
+epoch:450, step:10, loss:0.328, time:2314.596 min
+epoch:450, step:15, loss:0.360, time:2315.264 min
+epoch:450, step:20, loss:0.364, time:2315.891 min
+epoch:450, step:25, loss:0.361, time:2316.518 min
+epoch:450, step:30, loss:0.352, time:2317.144 min
+epoch:450, step:35, loss:0.344, time:2317.729 min
+mean_loss =  0.8611450244168766
+min_loss =  0.8604354028701782
+2021.07.26 11:54:09
+************************
+
+epoch:451, step:0, loss:0.350, time:2318.413 min
+epoch:451, step:5, loss:0.365, time:2319.081 min
+epoch:451, step:10, loss:0.364, time:2319.708 min
+epoch:451, step:15, loss:0.348, time:2320.376 min
+epoch:451, step:20, loss:0.354, time:2321.003 min
+epoch:451, step:25, loss:0.342, time:2321.588 min
+epoch:451, step:30, loss:0.330, time:2322.256 min
+epoch:451, step:35, loss:0.343, time:2322.925 min
+mean_loss =  0.8981383856265776
+min_loss =  0.8604354028701782
+************************
+
+epoch:452, step:0, loss:0.337, time:2323.610 min
+epoch:452, step:5, loss:0.338, time:2324.237 min
+epoch:452, step:10, loss:0.356, time:2324.906 min
+epoch:452, step:15, loss:0.347, time:2325.575 min
+epoch:452, step:20, loss:0.358, time:2326.202 min
+epoch:452, step:25, loss:0.336, time:2326.787 min
+epoch:452, step:30, loss:0.343, time:2327.372 min
+epoch:452, step:35, loss:0.344, time:2328.040 min
+mean_loss =  0.9012074819425258
+min_loss =  0.8604354028701782
+************************
+
+epoch:453, step:0, loss:0.345, time:2328.767 min
+epoch:453, step:5, loss:0.350, time:2329.393 min
+epoch:453, step:10, loss:0.362, time:2330.020 min
+epoch:453, step:15, loss:0.350, time:2330.689 min
+epoch:453, step:20, loss:0.363, time:2331.316 min
+epoch:453, step:25, loss:0.354, time:2332.026 min
+epoch:453, step:30, loss:0.349, time:2332.653 min
+epoch:453, step:35, loss:0.342, time:2333.322 min
+mean_loss =  0.8935994409745739
+min_loss =  0.8604354028701782
+************************
+
+epoch:454, step:0, loss:0.336, time:2333.965 min
+epoch:454, step:5, loss:0.356, time:2334.633 min
+epoch:454, step:10, loss:0.341, time:2335.302 min
+epoch:454, step:15, loss:0.352, time:2335.970 min
+epoch:454, step:20, loss:0.337, time:2336.597 min
+epoch:454, step:25, loss:0.349, time:2337.307 min
+epoch:454, step:30, loss:0.330, time:2337.976 min
+epoch:454, step:35, loss:0.351, time:2338.561 min
+mean_loss =  0.9023073642484604
+min_loss =  0.8604354028701782
+************************
+
+epoch:455, step:0, loss:0.332, time:2339.163 min
+epoch:455, step:5, loss:0.358, time:2339.790 min
+epoch:455, step:10, loss:0.352, time:2340.459 min
+epoch:455, step:15, loss:0.357, time:2341.127 min
+epoch:455, step:20, loss:0.347, time:2341.753 min
+epoch:455, step:25, loss:0.339, time:2342.422 min
+epoch:455, step:30, loss:0.343, time:2343.007 min
+epoch:455, step:35, loss:0.349, time:2343.634 min
+mean_loss =  0.8707971348137152
+min_loss =  0.8604354028701782
+************************
+
+epoch:456, step:0, loss:0.342, time:2344.277 min
+epoch:456, step:5, loss:0.350, time:2344.903 min
+epoch:456, step:10, loss:0.343, time:2345.572 min
+epoch:456, step:15, loss:0.335, time:2346.199 min
+epoch:456, step:20, loss:0.335, time:2346.868 min
+epoch:456, step:25, loss:0.335, time:2347.536 min
+epoch:456, step:30, loss:0.346, time:2348.205 min
+epoch:456, step:35, loss:0.327, time:2348.873 min
+mean_loss =  0.8695042085647583
+min_loss =  0.8604354028701782
+************************
+
+epoch:457, step:0, loss:0.349, time:2349.475 min
+epoch:457, step:5, loss:0.353, time:2350.144 min
+epoch:457, step:10, loss:0.348, time:2350.813 min
+epoch:457, step:15, loss:0.339, time:2351.439 min
+epoch:457, step:20, loss:0.334, time:2352.066 min
+epoch:457, step:25, loss:0.350, time:2352.735 min
+epoch:457, step:30, loss:0.340, time:2353.362 min
+epoch:457, step:35, loss:0.342, time:2354.032 min
+mean_loss =  0.876849799621396
+min_loss =  0.8604354028701782
+************************
+
+epoch:458, step:0, loss:0.341, time:2354.676 min
+epoch:458, step:5, loss:0.345, time:2355.303 min
+epoch:458, step:10, loss:0.323, time:2355.929 min
+epoch:458, step:15, loss:0.348, time:2356.515 min
+epoch:458, step:20, loss:0.344, time:2357.184 min
+epoch:458, step:25, loss:0.327, time:2357.811 min
+epoch:458, step:30, loss:0.346, time:2358.354 min
+epoch:458, step:35, loss:0.347, time:2359.023 min
+mean_loss =  0.8970710565646489
+min_loss =  0.8604354028701782
+************************
+
+epoch:459, step:0, loss:0.333, time:2359.708 min
+epoch:459, step:5, loss:0.355, time:2360.377 min
+epoch:459, step:10, loss:0.357, time:2361.045 min
+epoch:459, step:15, loss:0.365, time:2361.713 min
+epoch:459, step:20, loss:0.335, time:2362.300 min
+epoch:459, step:25, loss:0.355, time:2362.944 min
+epoch:459, step:30, loss:0.343, time:2363.614 min
+epoch:459, step:35, loss:0.365, time:2364.284 min
+mean_loss =  0.9089484657010725
+min_loss =  0.8604354028701782
+************************
+
+epoch:460, step:0, loss:0.356, time:2364.929 min
+epoch:460, step:5, loss:0.334, time:2365.557 min
+epoch:460, step:10, loss:0.342, time:2366.227 min
+epoch:460, step:15, loss:0.336, time:2366.772 min
+epoch:460, step:20, loss:0.346, time:2367.400 min
+epoch:460, step:25, loss:0.339, time:2368.113 min
+epoch:460, step:30, loss:0.330, time:2368.741 min
+epoch:460, step:35, loss:0.359, time:2369.412 min
+mean_loss =  0.8683630530951453
+min_loss =  0.8604354028701782
+2021.07.26 12:45:48
+************************
+
+epoch:461, step:0, loss:0.353, time:2370.057 min
+epoch:461, step:5, loss:0.344, time:2370.727 min
+epoch:461, step:10, loss:0.357, time:2371.438 min
+epoch:461, step:15, loss:0.355, time:2372.066 min
+epoch:461, step:20, loss:0.351, time:2372.736 min
+epoch:461, step:25, loss:0.360, time:2373.406 min
+epoch:461, step:30, loss:0.339, time:2374.034 min
+epoch:461, step:35, loss:0.363, time:2374.704 min
+mean_loss =  0.8959865760803223
+min_loss =  0.8604354028701782
+************************
+
+epoch:462, step:0, loss:0.353, time:2375.308 min
+epoch:462, step:5, loss:0.351, time:2376.019 min
+epoch:462, step:10, loss:0.343, time:2376.605 min
+epoch:462, step:15, loss:0.336, time:2377.233 min
+epoch:462, step:20, loss:0.347, time:2377.861 min
+epoch:462, step:25, loss:0.331, time:2378.573 min
+epoch:462, step:30, loss:0.371, time:2379.202 min
+epoch:462, step:35, loss:0.369, time:2379.872 min
+mean_loss =  0.8837024134302897
+min_loss =  0.8604354028701782
+************************
+
+epoch:463, step:0, loss:0.337, time:2380.601 min
+epoch:463, step:5, loss:0.344, time:2381.230 min
+epoch:463, step:10, loss:0.345, time:2381.858 min
+epoch:463, step:15, loss:0.358, time:2382.528 min
+epoch:463, step:20, loss:0.336, time:2383.240 min
+epoch:463, step:25, loss:0.345, time:2383.868 min
+epoch:463, step:30, loss:0.332, time:2384.496 min
+epoch:463, step:35, loss:0.356, time:2385.166 min
+mean_loss =  0.8902876004576683
+min_loss =  0.8604354028701782
+************************
+
+epoch:464, step:0, loss:0.345, time:2385.979 min
+epoch:464, step:5, loss:0.343, time:2386.649 min
+epoch:464, step:10, loss:0.360, time:2387.277 min
+epoch:464, step:15, loss:0.372, time:2387.904 min
+epoch:464, step:20, loss:0.352, time:2388.575 min
+epoch:464, step:25, loss:0.349, time:2389.203 min
+epoch:464, step:30, loss:0.338, time:2389.873 min
+epoch:464, step:35, loss:0.334, time:2390.501 min
+mean_loss =  0.8826770166881749
+min_loss =  0.8604354028701782
+************************
+
+epoch:465, step:0, loss:0.338, time:2391.105 min
+epoch:465, step:5, loss:0.331, time:2391.775 min
+epoch:465, step:10, loss:0.357, time:2392.403 min
+epoch:465, step:15, loss:0.344, time:2393.073 min
+epoch:465, step:20, loss:0.343, time:2393.744 min
+epoch:465, step:25, loss:0.364, time:2394.372 min
+epoch:465, step:30, loss:0.342, time:2395.042 min
+epoch:465, step:35, loss:0.340, time:2395.671 min
+mean_loss =  0.8870749959945678
+min_loss =  0.8604354028701782
+************************
+
+epoch:466, step:0, loss:0.343, time:2396.359 min
+epoch:466, step:5, loss:0.341, time:2396.945 min
+epoch:466, step:10, loss:0.335, time:2397.615 min
+epoch:466, step:15, loss:0.372, time:2398.285 min
+epoch:466, step:20, loss:0.334, time:2398.787 min
+epoch:466, step:25, loss:0.331, time:2399.416 min
+epoch:466, step:30, loss:0.342, time:2400.002 min
+epoch:466, step:35, loss:0.354, time:2400.714 min
+mean_loss =  0.9137409255524312
+min_loss =  0.8604354028701782
+************************
+
+epoch:467, step:0, loss:0.356, time:2401.444 min
+epoch:467, step:5, loss:0.334, time:2402.072 min
+epoch:467, step:10, loss:0.346, time:2402.785 min
+epoch:467, step:15, loss:0.336, time:2403.413 min
+epoch:467, step:20, loss:0.342, time:2403.958 min
+epoch:467, step:25, loss:0.348, time:2404.586 min
+epoch:467, step:30, loss:0.341, time:2405.214 min
+epoch:467, step:35, loss:0.352, time:2405.885 min
+mean_loss =  0.881307226269185
+min_loss =  0.8604354028701782
+************************
+
+epoch:468, step:0, loss:0.363, time:2406.446 min
+epoch:468, step:5, loss:0.366, time:2407.158 min
+epoch:468, step:10, loss:0.349, time:2407.786 min
+epoch:468, step:15, loss:0.335, time:2408.414 min
+epoch:468, step:20, loss:0.355, time:2409.001 min
+epoch:468, step:25, loss:0.347, time:2409.629 min
+epoch:468, step:30, loss:0.365, time:2410.340 min
+epoch:468, step:35, loss:0.353, time:2411.010 min
+mean_loss =  0.8631974284241839
+min_loss =  0.8604354028701782
+************************
+
+epoch:469, step:0, loss:0.346, time:2411.614 min
+epoch:469, step:5, loss:0.354, time:2412.200 min
+epoch:469, step:10, loss:0.334, time:2412.870 min
+epoch:469, step:15, loss:0.357, time:2413.583 min
+epoch:469, step:20, loss:0.343, time:2414.253 min
+epoch:469, step:25, loss:0.340, time:2414.923 min
+epoch:469, step:30, loss:0.350, time:2415.594 min
+epoch:469, step:35, loss:0.365, time:2416.264 min
+mean_loss =  0.8822607477818887
+min_loss =  0.8604354028701782
+************************
+
+epoch:470, step:0, loss:0.339, time:2416.952 min
+epoch:470, step:5, loss:0.346, time:2417.622 min
+epoch:470, step:10, loss:0.337, time:2418.251 min
+epoch:470, step:15, loss:0.359, time:2418.963 min
+epoch:470, step:20, loss:0.354, time:2419.549 min
+epoch:470, step:25, loss:0.352, time:2420.177 min
+epoch:470, step:30, loss:0.345, time:2420.848 min
+epoch:470, step:35, loss:0.334, time:2421.476 min
+mean_loss =  0.9031322254398004
+min_loss =  0.8604354028701782
+2021.07.26 13:37:52
+************************
+
+epoch:471, step:0, loss:0.349, time:2422.121 min
+epoch:471, step:5, loss:0.329, time:2422.750 min
+epoch:471, step:10, loss:0.344, time:2423.378 min
+epoch:471, step:15, loss:0.343, time:2423.964 min
+epoch:471, step:20, loss:0.344, time:2424.592 min
+epoch:471, step:25, loss:0.359, time:2425.178 min
+epoch:471, step:30, loss:0.335, time:2425.806 min
+epoch:471, step:35, loss:0.349, time:2426.476 min
+mean_loss =  0.900565850532661
+min_loss =  0.8604354028701782
+************************
+
+epoch:472, step:0, loss:0.350, time:2427.122 min
+epoch:472, step:5, loss:0.345, time:2427.750 min
+epoch:472, step:10, loss:0.343, time:2428.336 min
+epoch:472, step:15, loss:0.334, time:2428.964 min
+epoch:472, step:20, loss:0.345, time:2429.634 min
+epoch:472, step:25, loss:0.337, time:2430.263 min
+epoch:472, step:30, loss:0.341, time:2430.849 min
+epoch:472, step:35, loss:0.339, time:2431.519 min
+mean_loss =  0.8809303162527866
+min_loss =  0.8604354028701782
+************************
+
+epoch:473, step:0, loss:0.350, time:2432.164 min
+epoch:473, step:5, loss:0.358, time:2432.709 min
+epoch:473, step:10, loss:0.350, time:2433.420 min
+epoch:473, step:15, loss:0.342, time:2434.132 min
+epoch:473, step:20, loss:0.355, time:2434.760 min
+epoch:473, step:25, loss:0.349, time:2435.346 min
+epoch:473, step:30, loss:0.334, time:2436.057 min
+epoch:473, step:35, loss:0.371, time:2436.686 min
+mean_loss =  0.8965946692080538
+min_loss =  0.8604354028701782
+************************
+
+epoch:474, step:0, loss:0.357, time:2437.290 min
+epoch:474, step:5, loss:0.343, time:2437.918 min
+epoch:474, step:10, loss:0.360, time:2438.673 min
+epoch:474, step:15, loss:0.342, time:2439.384 min
+epoch:474, step:20, loss:0.338, time:2440.012 min
+epoch:474, step:25, loss:0.358, time:2440.641 min
+epoch:474, step:30, loss:0.360, time:2441.311 min
+epoch:474, step:35, loss:0.350, time:2441.939 min
+mean_loss =  0.8673303420581515
+min_loss =  0.8604354028701782
+************************
+
+epoch:475, step:0, loss:0.347, time:2442.626 min
+epoch:475, step:5, loss:0.335, time:2443.254 min
+epoch:475, step:10, loss:0.343, time:2443.924 min
+epoch:475, step:15, loss:0.358, time:2444.552 min
+epoch:475, step:20, loss:0.346, time:2445.180 min
+epoch:475, step:25, loss:0.354, time:2445.850 min
+epoch:475, step:30, loss:0.357, time:2446.478 min
+epoch:475, step:35, loss:0.344, time:2447.107 min
+mean_loss =  0.9205966053939447
+min_loss =  0.8604354028701782
+************************
+
+epoch:476, step:0, loss:0.329, time:2447.710 min
+epoch:476, step:5, loss:0.344, time:2448.380 min
+epoch:476, step:10, loss:0.342, time:2448.966 min
+epoch:476, step:15, loss:0.354, time:2449.636 min
+epoch:476, step:20, loss:0.338, time:2450.307 min
+epoch:476, step:25, loss:0.344, time:2450.935 min
+epoch:476, step:30, loss:0.336, time:2451.563 min
+epoch:476, step:35, loss:0.342, time:2452.317 min
+mean_loss =  0.8699545975654356
+min_loss =  0.8604354028701782
+************************
+
+epoch:477, step:0, loss:0.368, time:2452.962 min
+epoch:477, step:5, loss:0.347, time:2453.632 min
+epoch:477, step:10, loss:0.335, time:2454.344 min
+epoch:477, step:15, loss:0.351, time:2454.972 min
+epoch:477, step:20, loss:0.331, time:2455.559 min
+epoch:477, step:25, loss:0.333, time:2456.187 min
+epoch:477, step:30, loss:0.347, time:2456.814 min
+epoch:477, step:35, loss:0.349, time:2457.443 min
+mean_loss =  0.8695589958644304
+min_loss =  0.8604354028701782
+************************
+
+epoch:478, step:0, loss:0.344, time:2458.130 min
+epoch:478, step:5, loss:0.353, time:2458.757 min
+epoch:478, step:10, loss:0.339, time:2459.386 min
+epoch:478, step:15, loss:0.352, time:2460.055 min
+epoch:478, step:20, loss:0.345, time:2460.725 min
+epoch:478, step:25, loss:0.348, time:2461.394 min
+epoch:478, step:30, loss:0.372, time:2462.066 min
+epoch:478, step:35, loss:0.339, time:2462.657 min
+mean_loss =  0.8834098077589466
+min_loss =  0.8604354028701782
+************************
+
+epoch:479, step:0, loss:0.346, time:2463.319 min
+epoch:479, step:5, loss:0.366, time:2463.957 min
+epoch:479, step:10, loss:0.340, time:2464.544 min
+epoch:479, step:15, loss:0.362, time:2465.243 min
+epoch:479, step:20, loss:0.329, time:2465.888 min
+epoch:479, step:25, loss:0.335, time:2466.612 min
+epoch:479, step:30, loss:0.339, time:2467.296 min
+epoch:479, step:35, loss:0.348, time:2467.928 min
+mean_loss =  0.8898615563502077
+min_loss =  0.8604354028701782
+************************
+
+epoch:480, step:0, loss:0.358, time:2468.544 min
+epoch:480, step:5, loss:0.353, time:2469.139 min
+epoch:480, step:10, loss:0.345, time:2469.777 min
+epoch:480, step:15, loss:0.337, time:2470.428 min
+epoch:480, step:20, loss:0.350, time:2471.123 min
+epoch:480, step:25, loss:0.332, time:2471.844 min
+epoch:480, step:30, loss:0.359, time:2472.543 min
+epoch:480, step:35, loss:0.330, time:2473.097 min
+mean_loss =  0.8938298185994803
+min_loss =  0.8604354028701782
+2021.07.26 14:29:30
+************************
+
+epoch:481, step:0, loss:0.347, time:2473.768 min
+epoch:481, step:5, loss:0.350, time:2474.447 min
+epoch:481, step:10, loss:0.361, time:2475.091 min
+epoch:481, step:15, loss:0.351, time:2475.745 min
+epoch:481, step:20, loss:0.343, time:2476.489 min
+epoch:481, step:25, loss:0.337, time:2477.145 min
+epoch:481, step:30, loss:0.337, time:2477.788 min
+epoch:481, step:35, loss:0.351, time:2478.481 min
+mean_loss =  0.8945189404293774
+min_loss =  0.8604354028701782
+************************
+
+epoch:482, step:0, loss:0.349, time:2479.100 min
+epoch:482, step:5, loss:0.332, time:2479.809 min
+epoch:482, step:10, loss:0.324, time:2480.421 min
+epoch:482, step:15, loss:0.336, time:2481.071 min
+epoch:482, step:20, loss:0.356, time:2481.729 min
+epoch:482, step:25, loss:0.338, time:2482.411 min
+epoch:482, step:30, loss:0.355, time:2483.118 min
+epoch:482, step:35, loss:0.363, time:2483.778 min
+mean_loss =  0.8942440925550855
+min_loss =  0.8604354028701782
+************************
+
+epoch:483, step:0, loss:0.332, time:2484.402 min
+epoch:483, step:5, loss:0.342, time:2485.098 min
+epoch:483, step:10, loss:0.347, time:2485.753 min
+epoch:483, step:15, loss:0.345, time:2486.406 min
+epoch:483, step:20, loss:0.336, time:2487.097 min
+epoch:483, step:25, loss:0.336, time:2487.709 min
+epoch:483, step:30, loss:0.325, time:2488.315 min
+epoch:483, step:35, loss:0.355, time:2488.990 min
+mean_loss =  0.8906850492367979
+min_loss =  0.8604354028701782
+************************
+
+epoch:484, step:0, loss:0.352, time:2489.682 min
+epoch:484, step:5, loss:0.340, time:2490.359 min
+epoch:484, step:10, loss:0.340, time:2491.034 min
+epoch:484, step:15, loss:0.362, time:2491.655 min
+epoch:484, step:20, loss:0.351, time:2492.358 min
+epoch:484, step:25, loss:0.337, time:2493.031 min
+epoch:484, step:30, loss:0.346, time:2493.702 min
+epoch:484, step:35, loss:0.353, time:2494.376 min
+mean_loss =  0.9095421599560096
+min_loss =  0.8604354028701782
+************************
+
+epoch:485, step:0, loss:0.326, time:2495.033 min
+epoch:485, step:5, loss:0.347, time:2495.623 min
+epoch:485, step:10, loss:0.351, time:2496.343 min
+epoch:485, step:15, loss:0.352, time:2497.023 min
+epoch:485, step:20, loss:0.351, time:2497.614 min
+epoch:485, step:25, loss:0.357, time:2498.258 min
+epoch:485, step:30, loss:0.330, time:2498.995 min
+epoch:485, step:35, loss:0.321, time:2499.669 min
+mean_loss =  0.886558715374239
+min_loss =  0.8604354028701782
+************************
+
+epoch:486, step:0, loss:0.348, time:2500.314 min
+epoch:486, step:5, loss:0.348, time:2500.948 min
+epoch:486, step:10, loss:0.339, time:2501.506 min
+epoch:486, step:15, loss:0.333, time:2502.143 min
+epoch:486, step:20, loss:0.322, time:2502.730 min
+epoch:486, step:25, loss:0.335, time:2503.417 min
+epoch:486, step:30, loss:0.358, time:2504.052 min
+epoch:486, step:35, loss:0.354, time:2504.746 min
+mean_loss =  0.9050867978264304
+min_loss =  0.8604354028701782
+************************
+
+epoch:487, step:0, loss:0.331, time:2505.458 min
+epoch:487, step:5, loss:0.333, time:2506.058 min
+epoch:487, step:10, loss:0.350, time:2506.698 min
+epoch:487, step:15, loss:0.350, time:2507.440 min
+epoch:487, step:20, loss:0.353, time:2508.136 min
+epoch:487, step:25, loss:0.359, time:2508.827 min
+epoch:487, step:30, loss:0.335, time:2509.438 min
+epoch:487, step:35, loss:0.341, time:2510.131 min
+mean_loss =  0.9053192677036408
+min_loss =  0.8604354028701782
+************************
+
+epoch:488, step:0, loss:0.348, time:2510.808 min
+epoch:488, step:5, loss:0.353, time:2511.500 min
+epoch:488, step:10, loss:0.340, time:2512.209 min
+epoch:488, step:15, loss:0.353, time:2512.856 min
+epoch:488, step:20, loss:0.357, time:2513.400 min
+epoch:488, step:25, loss:0.338, time:2514.068 min
+epoch:488, step:30, loss:0.352, time:2514.778 min
+epoch:488, step:35, loss:0.337, time:2515.405 min
+mean_loss =  0.9220327487805995
+min_loss =  0.8604354028701782
+************************
+
+epoch:489, step:0, loss:0.342, time:2516.049 min
+epoch:489, step:5, loss:0.350, time:2516.676 min
+epoch:489, step:10, loss:0.344, time:2517.344 min
+epoch:489, step:15, loss:0.341, time:2517.929 min
+epoch:489, step:20, loss:0.321, time:2518.556 min
+epoch:489, step:25, loss:0.343, time:2519.183 min
+epoch:489, step:30, loss:0.328, time:2519.893 min
+epoch:489, step:35, loss:0.354, time:2520.519 min
+mean_loss =  0.8701241221584257
+min_loss =  0.8604354028701782
+************************
+
+epoch:490, step:0, loss:0.342, time:2521.206 min
+epoch:490, step:5, loss:0.340, time:2521.832 min
+epoch:490, step:10, loss:0.341, time:2522.500 min
+epoch:490, step:15, loss:0.335, time:2523.127 min
+epoch:490, step:20, loss:0.353, time:2523.795 min
+epoch:490, step:25, loss:0.336, time:2524.380 min
+epoch:490, step:30, loss:0.334, time:2525.048 min
+epoch:490, step:35, loss:0.342, time:2525.657 min
+mean_loss =  0.8919398534682489
+min_loss =  0.8604354028701782
+2021.07.26 15:22:07
+************************
+
+epoch:491, step:0, loss:0.345, time:2526.427 min
+epoch:491, step:5, loss:0.350, time:2527.035 min
+epoch:491, step:10, loss:0.347, time:2527.742 min
+epoch:491, step:15, loss:0.340, time:2528.471 min
+epoch:491, step:20, loss:0.348, time:2529.167 min
+epoch:491, step:25, loss:0.348, time:2529.776 min
+epoch:491, step:30, loss:0.355, time:2530.488 min
+epoch:491, step:35, loss:0.356, time:2531.126 min
+mean_loss =  0.8901004610061646
+min_loss =  0.8604354028701782
+************************
+
+epoch:492, step:0, loss:0.361, time:2531.852 min
+epoch:492, step:5, loss:0.343, time:2532.463 min
+epoch:492, step:10, loss:0.338, time:2533.070 min
+epoch:492, step:15, loss:0.348, time:2533.772 min
+epoch:492, step:20, loss:0.349, time:2534.417 min
+epoch:492, step:25, loss:0.353, time:2535.158 min
+epoch:492, step:30, loss:0.344, time:2535.836 min
+epoch:492, step:35, loss:0.334, time:2536.480 min
+mean_loss =  0.8997362852096558
+min_loss =  0.8604354028701782
+************************
+
+epoch:493, step:0, loss:0.335, time:2537.135 min
+epoch:493, step:5, loss:0.352, time:2537.772 min
+epoch:493, step:10, loss:0.347, time:2538.503 min
+epoch:493, step:15, loss:0.344, time:2539.192 min
+epoch:493, step:20, loss:0.343, time:2539.836 min
+epoch:493, step:25, loss:0.354, time:2540.474 min
+epoch:493, step:30, loss:0.339, time:2541.107 min
+epoch:493, step:35, loss:0.339, time:2541.783 min
+mean_loss =  0.9024582495612483
+min_loss =  0.8604354028701782
+************************
+
+epoch:494, step:0, loss:0.334, time:2542.439 min
+epoch:494, step:5, loss:0.344, time:2543.092 min
+epoch:494, step:10, loss:0.351, time:2543.805 min
+epoch:494, step:15, loss:0.346, time:2544.442 min
+epoch:494, step:20, loss:0.341, time:2545.036 min
+epoch:494, step:25, loss:0.330, time:2545.687 min
+epoch:494, step:30, loss:0.347, time:2546.336 min
+epoch:494, step:35, loss:0.334, time:2547.005 min
+mean_loss =  0.8703902349472046
+min_loss =  0.8604354028701782
+************************
+
+epoch:495, step:0, loss:0.348, time:2547.820 min
+epoch:495, step:5, loss:0.339, time:2548.497 min
+epoch:495, step:10, loss:0.368, time:2549.166 min
+epoch:495, step:15, loss:0.344, time:2549.835 min
+epoch:495, step:20, loss:0.340, time:2550.462 min
+epoch:495, step:25, loss:0.337, time:2551.182 min
+epoch:495, step:30, loss:0.346, time:2551.836 min
+epoch:495, step:35, loss:0.332, time:2552.441 min
+mean_loss =  0.9085159702301026
+min_loss =  0.8604354028701782
+************************
+
+epoch:496, step:0, loss:0.344, time:2553.116 min
+epoch:496, step:5, loss:0.344, time:2553.779 min
+epoch:496, step:10, loss:0.360, time:2554.479 min
+epoch:496, step:15, loss:0.331, time:2555.215 min
+epoch:496, step:20, loss:0.338, time:2555.966 min
+epoch:496, step:25, loss:0.346, time:2556.798 min
+epoch:496, step:30, loss:0.340, time:2557.489 min
+epoch:496, step:35, loss:0.344, time:2558.196 min
+mean_loss =  0.871935119551997
+min_loss =  0.8604354028701782
+************************
+
+epoch:497, step:0, loss:0.336, time:2559.004 min
+epoch:497, step:5, loss:0.334, time:2559.699 min
+epoch:497, step:10, loss:0.337, time:2560.394 min
+epoch:497, step:15, loss:0.356, time:2561.181 min
+epoch:497, step:20, loss:0.363, time:2561.876 min
+epoch:497, step:25, loss:0.348, time:2562.757 min
+epoch:497, step:30, loss:0.331, time:2563.406 min
+epoch:497, step:35, loss:0.350, time:2564.101 min
+mean_loss =  0.9097549016358423
+min_loss =  0.8604354028701782
+************************
+
+epoch:498, step:0, loss:0.350, time:2564.712 min
+epoch:498, step:5, loss:0.325, time:2565.401 min
+epoch:498, step:10, loss:0.352, time:2566.162 min
+epoch:498, step:15, loss:0.331, time:2566.874 min
+epoch:498, step:20, loss:0.352, time:2567.523 min
+epoch:498, step:25, loss:0.334, time:2568.165 min
+epoch:498, step:30, loss:0.352, time:2568.848 min
+epoch:498, step:35, loss:0.340, time:2569.492 min
+mean_loss =  0.8788283570738863
+min_loss =  0.8604354028701782
+************************
+
+epoch:499, step:0, loss:0.351, time:2570.217 min
+epoch:499, step:5, loss:0.345, time:2570.870 min
+epoch:499, step:10, loss:0.327, time:2571.531 min
+epoch:499, step:15, loss:0.327, time:2572.145 min
+epoch:499, step:20, loss:0.361, time:2572.805 min
+epoch:499, step:25, loss:0.325, time:2573.454 min
+epoch:499, step:30, loss:0.361, time:2574.086 min
+epoch:499, step:35, loss:0.348, time:2574.719 min
+mean_loss =  0.8960612485806148
+min_loss =  0.8604354028701782
+************************
+
+epoch:500, step:0, loss:0.343, time:2575.384 min
+epoch:500, step:5, loss:0.333, time:2576.073 min
+epoch:500, step:10, loss:0.340, time:2576.661 min
+epoch:500, step:15, loss:0.332, time:2577.214 min
+epoch:500, step:20, loss:0.345, time:2577.817 min
+epoch:500, step:25, loss:0.335, time:2578.561 min
+epoch:500, step:30, loss:0.332, time:2579.167 min
+epoch:500, step:35, loss:0.336, time:2579.826 min
+mean_loss =  0.8919140949087628
+min_loss =  0.8604354028701782
+2021.07.26 16:16:14
+************************
+
+epoch:501, step:0, loss:0.341, time:2580.503 min
+epoch:501, step:5, loss:0.339, time:2581.159 min
+epoch:501, step:10, loss:0.332, time:2581.814 min
+epoch:501, step:15, loss:0.334, time:2582.469 min
+epoch:501, step:20, loss:0.337, time:2583.168 min
+epoch:501, step:25, loss:0.343, time:2583.826 min
+epoch:501, step:30, loss:0.350, time:2584.595 min
+epoch:501, step:35, loss:0.365, time:2585.267 min
+mean_loss =  0.8668355912458702
+min_loss =  0.8604354028701782
+************************
+
+epoch:502, step:0, loss:0.354, time:2585.945 min
+epoch:502, step:5, loss:0.345, time:2586.658 min
+epoch:502, step:10, loss:0.341, time:2587.365 min
+epoch:502, step:15, loss:0.347, time:2588.016 min
+epoch:502, step:20, loss:0.331, time:2588.671 min
+epoch:502, step:25, loss:0.354, time:2589.419 min
+epoch:502, step:30, loss:0.353, time:2590.181 min
+epoch:502, step:35, loss:0.335, time:2590.760 min
+mean_loss =  0.8754567775726319
+min_loss =  0.8604354028701782
+************************
+
+epoch:503, step:0, loss:0.346, time:2591.519 min
+epoch:503, step:5, loss:0.344, time:2592.161 min
+epoch:503, step:10, loss:0.340, time:2592.797 min
+epoch:503, step:15, loss:0.326, time:2593.425 min
+epoch:503, step:20, loss:0.334, time:2594.122 min
+epoch:503, step:25, loss:0.353, time:2594.718 min
+epoch:503, step:30, loss:0.334, time:2595.387 min
+epoch:503, step:35, loss:0.340, time:2596.097 min
+mean_loss =  0.8684281701964092
+min_loss =  0.8604354028701782
+************************
+
+epoch:504, step:0, loss:0.346, time:2596.742 min
+epoch:504, step:5, loss:0.334, time:2597.369 min
+epoch:504, step:10, loss:0.335, time:2598.019 min
+epoch:504, step:15, loss:0.351, time:2598.696 min
+epoch:504, step:20, loss:0.328, time:2599.328 min
+epoch:504, step:25, loss:0.334, time:2599.963 min
+epoch:504, step:30, loss:0.339, time:2600.641 min
+epoch:504, step:35, loss:0.345, time:2601.326 min
+mean_loss =  0.8708211648754958
+min_loss =  0.8604354028701782
+************************
+
+epoch:505, step:0, loss:0.345, time:2601.976 min
+epoch:505, step:5, loss:0.326, time:2602.612 min
+epoch:505, step:10, loss:0.325, time:2603.291 min
+epoch:505, step:15, loss:0.347, time:2603.929 min
+epoch:505, step:20, loss:0.333, time:2604.646 min
+epoch:505, step:25, loss:0.348, time:2605.324 min
+epoch:505, step:30, loss:0.350, time:2606.009 min
+epoch:505, step:35, loss:0.337, time:2606.601 min
+mean_loss =  0.8507998739519427
+min_loss =  0.8507998739519427
+************************
+
+epoch:506, step:0, loss:0.334, time:2607.294 min
+epoch:506, step:5, loss:0.329, time:2607.958 min
+epoch:506, step:10, loss:0.343, time:2608.660 min
+epoch:506, step:15, loss:0.352, time:2609.313 min
+epoch:506, step:20, loss:0.354, time:2609.929 min
+epoch:506, step:25, loss:0.329, time:2610.582 min
+epoch:506, step:30, loss:0.348, time:2611.282 min
+epoch:506, step:35, loss:0.341, time:2611.983 min
+mean_loss =  0.8836930433257681
+min_loss =  0.8507998739519427
+************************
+
+epoch:507, step:0, loss:0.345, time:2612.660 min
+epoch:507, step:5, loss:0.356, time:2613.277 min
+epoch:507, step:10, loss:0.353, time:2613.965 min
+epoch:507, step:15, loss:0.356, time:2614.608 min
+epoch:507, step:20, loss:0.333, time:2615.267 min
+epoch:507, step:25, loss:0.350, time:2615.919 min
+epoch:507, step:30, loss:0.350, time:2616.541 min
+epoch:507, step:35, loss:0.328, time:2617.340 min
+mean_loss =  0.8710040958916269
+min_loss =  0.8507998739519427
+************************
+
+epoch:508, step:0, loss:0.336, time:2618.064 min
+epoch:508, step:5, loss:0.350, time:2618.734 min
+epoch:508, step:10, loss:0.342, time:2619.395 min
+epoch:508, step:15, loss:0.348, time:2620.013 min
+epoch:508, step:20, loss:0.359, time:2620.687 min
+epoch:508, step:25, loss:0.352, time:2621.350 min
+epoch:508, step:30, loss:0.340, time:2622.042 min
+epoch:508, step:35, loss:0.336, time:2622.796 min
+mean_loss =  0.857904456677984
+min_loss =  0.8507998739519427
+************************
+
+epoch:509, step:0, loss:0.362, time:2623.467 min
+epoch:509, step:5, loss:0.331, time:2624.079 min
+epoch:509, step:10, loss:0.330, time:2624.760 min
+epoch:509, step:15, loss:0.350, time:2625.446 min
+epoch:509, step:20, loss:0.354, time:2626.144 min
+epoch:509, step:25, loss:0.342, time:2626.790 min
+epoch:509, step:30, loss:0.336, time:2627.441 min
+epoch:509, step:35, loss:0.334, time:2628.134 min
+mean_loss =  0.8841342012728414
+min_loss =  0.8507998739519427
+************************
+
+epoch:510, step:0, loss:0.351, time:2628.857 min
+epoch:510, step:5, loss:0.336, time:2629.495 min
+epoch:510, step:10, loss:0.355, time:2630.263 min
+epoch:510, step:15, loss:0.352, time:2630.881 min
+epoch:510, step:20, loss:0.354, time:2631.485 min
+epoch:510, step:25, loss:0.330, time:2632.227 min
+epoch:510, step:30, loss:0.347, time:2632.870 min
+epoch:510, step:35, loss:0.360, time:2633.560 min
+mean_loss =  0.8700637438940624
+min_loss =  0.8507998739519427
+2021.07.26 17:10:03
+************************
+
+epoch:511, step:0, loss:0.349, time:2634.306 min
+epoch:511, step:5, loss:0.332, time:2634.979 min
+epoch:511, step:10, loss:0.335, time:2635.608 min
+epoch:511, step:15, loss:0.336, time:2636.237 min
+epoch:511, step:20, loss:0.358, time:2636.867 min
+epoch:511, step:25, loss:0.334, time:2637.497 min
+epoch:511, step:30, loss:0.337, time:2638.084 min
+epoch:511, step:35, loss:0.331, time:2638.713 min
+mean_loss =  0.8806729033345082
+min_loss =  0.8507998739519427
+************************
+
+epoch:512, step:0, loss:0.331, time:2639.445 min
+epoch:512, step:5, loss:0.340, time:2640.074 min
+epoch:512, step:10, loss:0.329, time:2640.703 min
+epoch:512, step:15, loss:0.349, time:2641.333 min
+epoch:512, step:20, loss:0.358, time:2641.920 min
+epoch:512, step:25, loss:0.345, time:2642.556 min
+epoch:512, step:30, loss:0.338, time:2643.228 min
+epoch:512, step:35, loss:0.335, time:2643.900 min
+mean_loss =  0.9014439900716146
+min_loss =  0.8507998739519427
+************************
+
+epoch:513, step:0, loss:0.340, time:2644.507 min
+epoch:513, step:5, loss:0.341, time:2645.094 min
+epoch:513, step:10, loss:0.336, time:2645.766 min
+epoch:513, step:15, loss:0.322, time:2646.436 min
+epoch:513, step:20, loss:0.361, time:2647.108 min
+epoch:513, step:25, loss:0.326, time:2647.779 min
+epoch:513, step:30, loss:0.335, time:2648.283 min
+epoch:513, step:35, loss:0.344, time:2648.912 min
+mean_loss =  0.9166629550870785
+min_loss =  0.8507998739519427
+************************
+
+epoch:514, step:0, loss:0.355, time:2649.645 min
+epoch:514, step:5, loss:0.339, time:2650.232 min
+epoch:514, step:10, loss:0.344, time:2650.903 min
+epoch:514, step:15, loss:0.349, time:2651.490 min
+epoch:514, step:20, loss:0.333, time:2652.161 min
+epoch:514, step:25, loss:0.341, time:2652.898 min
+epoch:514, step:30, loss:0.343, time:2653.619 min
+epoch:514, step:35, loss:0.341, time:2654.324 min
+mean_loss =  0.8745363241150266
+min_loss =  0.8507998739519427
+************************
+
+epoch:515, step:0, loss:0.341, time:2655.038 min
+epoch:515, step:5, loss:0.347, time:2655.725 min
+epoch:515, step:10, loss:0.330, time:2656.418 min
+epoch:515, step:15, loss:0.343, time:2657.067 min
+epoch:515, step:20, loss:0.338, time:2657.782 min
+epoch:515, step:25, loss:0.350, time:2658.490 min
+epoch:515, step:30, loss:0.334, time:2659.150 min
+epoch:515, step:35, loss:0.334, time:2659.814 min
+mean_loss =  0.8699674196243287
+min_loss =  0.8507998739519427
+************************
+
+epoch:516, step:0, loss:0.338, time:2660.528 min
+epoch:516, step:5, loss:0.337, time:2661.185 min
+epoch:516, step:10, loss:0.341, time:2661.918 min
+epoch:516, step:15, loss:0.349, time:2662.554 min
+epoch:516, step:20, loss:0.339, time:2663.263 min
+epoch:516, step:25, loss:0.337, time:2663.903 min
+epoch:516, step:30, loss:0.335, time:2664.506 min
+epoch:516, step:35, loss:0.340, time:2665.185 min
+mean_loss =  0.8748819847417072
+min_loss =  0.8507998739519427
+************************
+
+epoch:517, step:0, loss:0.339, time:2665.833 min
+epoch:517, step:5, loss:0.351, time:2666.461 min
+epoch:517, step:10, loss:0.343, time:2667.173 min
+epoch:517, step:15, loss:0.330, time:2667.800 min
+epoch:517, step:20, loss:0.326, time:2668.470 min
+epoch:517, step:25, loss:0.329, time:2669.139 min
+epoch:517, step:30, loss:0.345, time:2669.767 min
+epoch:517, step:35, loss:0.348, time:2670.395 min
+mean_loss =  0.8676419786868557
+min_loss =  0.8507998739519427
+************************
+
+epoch:518, step:0, loss:0.346, time:2671.000 min
+epoch:518, step:5, loss:0.336, time:2671.628 min
+epoch:518, step:10, loss:0.342, time:2672.297 min
+epoch:518, step:15, loss:0.358, time:2673.008 min
+epoch:518, step:20, loss:0.330, time:2673.635 min
+epoch:518, step:25, loss:0.343, time:2674.263 min
+epoch:518, step:30, loss:0.346, time:2674.891 min
+epoch:518, step:35, loss:0.351, time:2675.519 min
+mean_loss =  0.9025825301154715
+min_loss =  0.8507998739519427
+************************
+
+epoch:519, step:0, loss:0.338, time:2676.209 min
+epoch:519, step:5, loss:0.347, time:2676.836 min
+epoch:519, step:10, loss:0.352, time:2677.423 min
+epoch:519, step:15, loss:0.330, time:2678.092 min
+epoch:519, step:20, loss:0.329, time:2678.762 min
+epoch:519, step:25, loss:0.343, time:2679.432 min
+epoch:519, step:30, loss:0.354, time:2680.101 min
+epoch:519, step:35, loss:0.334, time:2680.603 min
+mean_loss =  0.9039119909207026
+min_loss =  0.8507998739519427
+************************
+
+epoch:520, step:0, loss:0.363, time:2681.209 min
+epoch:520, step:5, loss:0.333, time:2681.878 min
+epoch:520, step:10, loss:0.348, time:2682.464 min
+epoch:520, step:15, loss:0.345, time:2683.092 min
+epoch:520, step:20, loss:0.336, time:2683.720 min
+epoch:520, step:25, loss:0.330, time:2684.348 min
+epoch:520, step:30, loss:0.335, time:2684.976 min
+epoch:520, step:35, loss:0.329, time:2685.603 min
+mean_loss =  0.9106960395971934
+min_loss =  0.8507998739519427
+2021.07.26 18:01:59
+************************
+
+epoch:521, step:0, loss:0.345, time:2686.250 min
+epoch:521, step:5, loss:0.335, time:2686.878 min
+epoch:521, step:10, loss:0.325, time:2687.548 min
+epoch:521, step:15, loss:0.353, time:2688.175 min
+epoch:521, step:20, loss:0.331, time:2688.887 min
+epoch:521, step:25, loss:0.361, time:2689.515 min
+epoch:521, step:30, loss:0.332, time:2690.185 min
+epoch:521, step:35, loss:0.339, time:2690.896 min
+mean_loss =  0.8877262558255877
+min_loss =  0.8507998739519427
+************************
+
+epoch:522, step:0, loss:0.335, time:2691.502 min
+epoch:522, step:5, loss:0.326, time:2692.131 min
+epoch:522, step:10, loss:0.347, time:2692.717 min
+epoch:522, step:15, loss:0.349, time:2693.428 min
+epoch:522, step:20, loss:0.340, time:2694.098 min
+epoch:522, step:25, loss:0.343, time:2694.726 min
+epoch:522, step:30, loss:0.336, time:2695.354 min
+epoch:522, step:35, loss:0.337, time:2695.982 min
+mean_loss =  0.8829309195280075
+min_loss =  0.8507998739519427
+************************
+
+epoch:523, step:0, loss:0.338, time:2696.588 min
+epoch:523, step:5, loss:0.337, time:2697.258 min
+epoch:523, step:10, loss:0.340, time:2697.969 min
+epoch:523, step:15, loss:0.325, time:2698.681 min
+epoch:523, step:20, loss:0.337, time:2699.351 min
+epoch:523, step:25, loss:0.333, time:2699.979 min
+epoch:523, step:30, loss:0.334, time:2700.619 min
+epoch:523, step:35, loss:0.350, time:2701.256 min
+mean_loss =  0.9021819009780884
+min_loss =  0.8507998739519427
+************************
+
+epoch:524, step:0, loss:0.332, time:2701.862 min
+epoch:524, step:5, loss:0.348, time:2702.489 min
+epoch:524, step:10, loss:0.327, time:2703.159 min
+epoch:524, step:15, loss:0.346, time:2703.745 min
+epoch:524, step:20, loss:0.333, time:2704.373 min
+epoch:524, step:25, loss:0.342, time:2704.959 min
+epoch:524, step:30, loss:0.331, time:2705.586 min
+epoch:524, step:35, loss:0.346, time:2706.214 min
+mean_loss =  0.8897488127235605
+min_loss =  0.8507998739519427
+************************
+
+epoch:525, step:0, loss:0.346, time:2706.868 min
+epoch:525, step:5, loss:0.334, time:2707.564 min
+epoch:525, step:10, loss:0.341, time:2708.244 min
+epoch:525, step:15, loss:0.334, time:2708.914 min
+epoch:525, step:20, loss:0.356, time:2709.500 min
+epoch:525, step:25, loss:0.352, time:2710.086 min
+epoch:525, step:30, loss:0.348, time:2710.756 min
+epoch:525, step:35, loss:0.324, time:2711.509 min
+mean_loss =  0.8806122995558239
+min_loss =  0.8507998739519427
+************************
+
+epoch:526, step:0, loss:0.346, time:2712.198 min
+epoch:526, step:5, loss:0.339, time:2712.868 min
+epoch:526, step:10, loss:0.341, time:2713.580 min
+epoch:526, step:15, loss:0.342, time:2714.250 min
+epoch:526, step:20, loss:0.319, time:2714.878 min
+epoch:526, step:25, loss:0.327, time:2715.548 min
+epoch:526, step:30, loss:0.351, time:2716.217 min
+epoch:526, step:35, loss:0.342, time:2716.845 min
+mean_loss =  0.8880194530487061
+min_loss =  0.8507998739519427
+************************
+
+epoch:527, step:0, loss:0.334, time:2717.451 min
+epoch:527, step:5, loss:0.336, time:2718.078 min
+epoch:527, step:10, loss:0.320, time:2718.748 min
+epoch:527, step:15, loss:0.340, time:2719.376 min
+epoch:527, step:20, loss:0.340, time:2720.003 min
+epoch:527, step:25, loss:0.347, time:2720.589 min
+epoch:527, step:30, loss:0.358, time:2721.216 min
+epoch:527, step:35, loss:0.331, time:2721.802 min
+mean_loss =  0.9087286586521053
+min_loss =  0.8507998739519427
+************************
+
+epoch:528, step:0, loss:0.327, time:2722.407 min
+epoch:528, step:5, loss:0.319, time:2723.034 min
+epoch:528, step:10, loss:0.343, time:2723.745 min
+epoch:528, step:15, loss:0.329, time:2724.415 min
+epoch:528, step:20, loss:0.328, time:2725.084 min
+epoch:528, step:25, loss:0.347, time:2725.755 min
+epoch:528, step:30, loss:0.352, time:2726.383 min
+epoch:528, step:35, loss:0.337, time:2727.011 min
+mean_loss =  0.9015372104644775
+min_loss =  0.8507998739519427
+************************
+
+epoch:529, step:0, loss:0.334, time:2727.701 min
+epoch:529, step:5, loss:0.339, time:2728.370 min
+epoch:529, step:10, loss:0.349, time:2728.956 min
+epoch:529, step:15, loss:0.338, time:2729.584 min
+epoch:529, step:20, loss:0.355, time:2730.170 min
+epoch:529, step:25, loss:0.332, time:2730.799 min
+epoch:529, step:30, loss:0.352, time:2731.426 min
+epoch:529, step:35, loss:0.327, time:2732.096 min
+mean_loss =  0.8949219195310735
+min_loss =  0.8507998739519427
+************************
+
+epoch:530, step:0, loss:0.346, time:2732.829 min
+epoch:530, step:5, loss:0.346, time:2733.414 min
+epoch:530, step:10, loss:0.341, time:2734.041 min
+epoch:530, step:15, loss:0.326, time:2734.627 min
+epoch:530, step:20, loss:0.341, time:2735.255 min
+epoch:530, step:25, loss:0.328, time:2735.841 min
+epoch:530, step:30, loss:0.346, time:2736.510 min
+epoch:530, step:35, loss:0.342, time:2737.096 min
+mean_loss =  0.8731138049545935
+min_loss =  0.8507998739519427
+2021.07.26 18:53:29
+************************
+
+epoch:531, step:0, loss:0.347, time:2737.745 min
+epoch:531, step:5, loss:0.325, time:2738.498 min
+epoch:531, step:10, loss:0.340, time:2739.168 min
+epoch:531, step:15, loss:0.344, time:2739.838 min
+epoch:531, step:20, loss:0.343, time:2740.550 min
+epoch:531, step:25, loss:0.324, time:2741.177 min
+epoch:531, step:30, loss:0.337, time:2741.846 min
+epoch:531, step:35, loss:0.331, time:2742.307 min
+mean_loss =  0.8946452246558282
+min_loss =  0.8507998739519427
+************************
+
+epoch:532, step:0, loss:0.335, time:2742.955 min
+epoch:532, step:5, loss:0.332, time:2743.541 min
+epoch:532, step:10, loss:0.352, time:2744.168 min
+epoch:532, step:15, loss:0.336, time:2744.842 min
+Traceback (most recent call last):
+  File "train.py", line 118, in <module>
+    if step % 5 == 0:
+  File "/home/zjm/anaconda3/lib/python3.8/site-packages/torch/tensor.py", line 245, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/home/zjm/anaconda3/lib/python3.8/site-packages/torch/autograd/__init__.py", line 145, in backward
+    Variable._execution_engine.run_backward(
+KeyboardInterrupt
