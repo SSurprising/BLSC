@@ -131,6 +131,7 @@ def main():
         lr_decay.step()
         mean_loss = sum(mean_loss) / len(mean_loss)
         print('mean_loss = ', mean_loss)
+        loss_list.append(mean_loss)
 
         if mean_loss < min_loss:
             min_loss = mean_loss
@@ -138,10 +139,9 @@ def main():
         print('min_loss = ', min_loss)
 
         # check the time and draw the loss image every 10 epochs
-        if epoch % 10 == 0:
+        if epoch % 5 == 0:
             print(time.strftime('%Y.%m.%d %H:%M:%S', time.localtime(time.time())))
 
-            loss_list.append(mean_loss)
             x = range(0, epoch + 1)
             plt.plot(x, loss_list, 'o-')
             plt.title('Loss with epochs')

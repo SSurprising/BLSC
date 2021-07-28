@@ -11,7 +11,6 @@ import numpy as np
 
 class Dataset(dataset):
     def __init__(self, slice_size, cts, gts, slice_expand=0):
-
         self.size = slice_size
         self.slice_expand = slice_expand
         self.random_min = int(0.5 * slice_size)
@@ -19,8 +18,6 @@ class Dataset(dataset):
         self.gts = gts
 
     def __getitem__(self, index):
-
-
         ct_array = self.cts[index]
         seg_array = self.gts[index]
 
